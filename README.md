@@ -18,6 +18,7 @@ Building on previous work (https://www.nature.com/articles/s41598-025-12796-9), 
 Mohammad Ali Abbasi-Vineh¹*, Pär K. Ingvarsson²*, Naser Farrokhi¹*
 
 ¹ Department of Cell & Molecular Biology, Faculty of Life Sciences & Biotechnology, Shahid Beheshti University, Tehran, Iran
+
 ² Department of Plant Biology, Swedish University of Agricultural Sciences, Uppsala, Sweden
 
 *Correspondences
@@ -32,17 +33,17 @@ All scripts used in this study are provided in "Main_Scripts_5′_UTR.ipynb".
 
 Key sections of the notebook include annotations such as:
 
-The code to run the CNN-LSTM-Attention-Residual hybrid model
+a) The code to run the CNN-LSTM-Attention-Residual hybrid model
 
-The code to have the Confusion matrix
+b) The code to have the Confusion matrix
 
-The code to have the ROC and PR curves
+c) The code to have the ROC and PR curves
 
-The code to have the analysis of attention heatmaps
+d)The code to have the analysis of attention heatmaps
 
-The code to have the Perturbation test analysis
+e) The code to have the Perturbation test analysis
 
-The code to have the Group saliency map analysis
+f) The code to have the Group saliency map analysis
 
 These modular and well-commented sections allow users to quickly locate and adapt relevant parts of the code for their own applications.
 
@@ -71,11 +72,11 @@ The current hybrid model is highly adaptable. Researchers can modify sequence le
 # Citations
 If you use the data augmentation approaches or models presented in this repository, please cite:
 
-Abbasi-Vineh, M.A., Ingvarsson, P.K., Farrokhi, N., et al.
+Abbasi-Vineh, M.A., Ingvarsson, P.K., and Farrokhi, N.
 Deep learning-based investigation of chloroplast translation regulatory sequences.
-Nature Scientific Reports (2025). DOI: https://doi.org/10.1038/s41598-025-12796-9
+Front. Plant Sci. Sec. Plant Bioinformatics (2025). DOI: https://doi.org/
 
-Contact
+# Contact
 For technical questions or additional details regarding data or analysis, please contact:
 
 Mohammad Ali Abbasi-Vineh*: ali.abbasi@modares.ac.ir; ali.abbasi1568@yahoo.com
