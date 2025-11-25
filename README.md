@@ -1,6 +1,6 @@
 # Plastid-5UTRs
 Code for manuscript titled:
-Deep learning-based investigation of chloroplast translation regulatory sequences
+# Deep learning-based investigation of chloroplast translation regulatory sequences
 DOI: https://doi.org/
 
 # Overview
